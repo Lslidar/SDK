@@ -1,0 +1,46 @@
+﻿生成启动时间为 2023/1/31 21:11:29。
+     1>项目“E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\demo\demo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D CH16KKKKK /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData.h(48): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData.h(49): warning C4244: “初始化”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(44): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(49): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(52): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(73): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(103): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(104): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(148): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(213): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(214): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(227): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(228): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(270): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(276): warning C4244: “=”: 从“double”转换到“u_int64”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\驱动收集库\demo总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\include\GetLidarData_C1_v4_0.cpp(288): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\Release\demo.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\Release\demo.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\Release\demo.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         demo.vcxproj -> E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\Release\demo.exe
+     1>已完成生成项目“E:\驱动收集库\DEMO总集合\linux_and_win_demo_20230113\linux_and_win_demo_202230113\demo\demo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.46
