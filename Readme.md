@@ -25,5 +25,3 @@ visual demo: ./demo_viewer
 #### Compiling under Windows System
 
 Open cmake-gui, set the search path of PCL library and compile directly or use Visual Studio to compile.
-
-<img src="https://github.com/Lslidar/Lslidar_ROS1_driver/blob/master/image/LS180S1.png" width="200px" />  [link](https://github.com/Lslidar/SDK/tree/C1_V4.0)
