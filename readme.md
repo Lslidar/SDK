@@ -38,7 +38,7 @@ use Visual Studio to compile
 	m_GetLidarData_2->LidarStar();										//start the program to receive data
 	
 	GetLidarData* m_GetLidarData_3 = new GetLidarData_LS;				//  create the 3rd LS class
-	m_GetLidarData_3->setPortAndIP(2380, 2381, “192.168.1.102”);		//et the parameters of the Ethernet port that receives lidar data
+	m_GetLidarData_3->setPortAndIP(2380, 2381, “192.168.1.102”);		//set the parameters of the Ethernet port that receives lidar data
 	m_GetLidarData_3->LidarStar();										//start the program to receive data
 
 
